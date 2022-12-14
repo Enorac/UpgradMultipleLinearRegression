@@ -9,7 +9,7 @@ Create a multiple linear regression model in python on a bike rental business
 
 ## General Information
 - The dataset is a two years of data from a bike rental business. They have the months, counts of sales, seasons, weather, years, temperature
-- 
+
 ## Conclusions
 - The most important variable is the weather, if a bike rental business wants to succeed they should choose a city with good weather year round. This is also a fast growing technology so we can expect growth even if there are many mistakes made
 - Weekdays were uncorrelated, and workingdays were uncorrelated
