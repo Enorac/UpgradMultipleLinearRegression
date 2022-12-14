@@ -1,4 +1,4 @@
-# Kevin Caroone MLR
+# Kevin Carone MLR
 # Project Name
 Create a multiple linear regression model in python on a bike rental business
 
